@@ -10,17 +10,17 @@
 
         <!--Logo-->
         <ImageView
-            android:layout_width="wrap_content"
+            android:layout_width="match_parent"
             android:layout_height="wrap_content" />
         <!--User-->
         <TextView
             android:text="Username"
-            android:layout_width="wrap_content"
+            android:layout_width="match_parent"
             android:layout_height="wrap_content" />
         <!--Password-->
         <TextView
             android:hint="Password"
-            android:layout_width="wrap_content"
+            android:layout_width="match_parent"
             android:layout_height="wrap_content" />
 
         <!--Login-->
